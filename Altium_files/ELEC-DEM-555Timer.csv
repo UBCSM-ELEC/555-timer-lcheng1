@@ -1,0 +1,8 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity,Manufacturer 1,Manufacturer Part Number 1,Supplier 1,Supplier Currency 1,Supplier Order Qty 1,Supplier Part Number 1,Supplier Stock 1,Supplier Subtotal 1,Supplier Unit Price 1
+
+"555 Timer","","","","555 Timer","1","","","Digi-Key","","","","","",""
+"10uF","Capacitor (Semiconductor SIM Model)","C1","C1206","Cap_10uF","1","AVX Corporation","TAJA106K006RNJ","Digi-Key","CAD","1","478-1653-1-ND","71936","0.5","0.50"
+"10nF","Capacitor (Semiconductor SIM Model)","C2","C1206","Cap_10nF","1","","","Digi-Key","","","","","",""
+"RED LED SMD","RED LED","D?","LED-1","RED LED SMD","1","Rohm Semiconductor","SML-P13PTT86R","Digi-Key","CAD","1","846-1197-6-ND","326423","0.55","0.55"
+"Res_1K","1K Resistor","R1, R3","AXIAL-0.5","Res_1K","2","","","Digi-Key","","","","","",""
+"Res_10K","10K Resistor","R2","AXIAL-0.5","Res_10K","1","","","Digi-Key","","","","","",""

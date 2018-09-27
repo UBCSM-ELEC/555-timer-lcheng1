@@ -1,0 +1,20 @@
+Component Name : 555 Timer
+
+Part Count : 2
+
+Part : *
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : *
+     Pins - (Normal) : 8
+          THRES          6              Passive
+          DISCH          7              Passive
+          RESET          4              Passive
+          VCC            8              Passive
+          OUT            3              Passive
+          CONT           5              Passive
+          GND            1              Passive
+          TRIG           2              Passive
+          Hidden Pins : 
+
